@@ -1,4 +1,4 @@
-earth
+mandelbrot
 =====
 
-A Spinning Globe (using WebGL and data from Natural Earth)
+A Mandelbrot Set renderer that runs on the GPU using WebGL.
